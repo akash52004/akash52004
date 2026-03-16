@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Mondal</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Engineer;Cloud+Infrastructure+Engineer;Kubernetes+Enthusiast;OpenStack+Developer;CI/CD+Automation+Engineer&center=true&width=600&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Engineer;Cloud+Infrastructure+Engineer;Kubernetes+Enthusiast;CI/CD+Automation+Engineer;OpenStack+Developer&center=true&width=600&height=50">
 </p>
 
 ---
@@ -12,9 +12,9 @@
 ☁️ Cloud Computing Intern at **ISRO**  
 ⚙️ DevOps Engineer Trainee at **TensorGo Software Pvt Ltd**
 
-I enjoy building **cloud infrastructure, DevOps pipelines and scalable systems**.
+I enjoy building **cloud infrastructure, CI/CD pipelines, and scalable systems**.
 
-- 🌱 Currently learning **Kubernetes, Cloud Infrastructure, DevOps**
+- 🌱 Currently learning **Kubernetes, ArgoCD, Cloud Infrastructure**
 - 💻 Working with **Docker, Jenkins, Linux, OpenStack**
 - 🧠 Researching **AI + Speech Emotion Recognition**
 - 🚀 Interested in **Cloud Engineering and DevOps Architecture**
@@ -24,7 +24,15 @@ I enjoy building **cloud infrastructure, DevOps pipelines and scalable systems**
 # 🚀 Current Tech Stack
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=python,java,linux,docker,kubernetes,jenkins,git,github,react,nodejs,mongodb,mysql,aws,terraform,vscode&perline=8" />
+
+</p>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" width="50" height="50"/>
+
 </p>
 
 ---
@@ -75,47 +83,49 @@ Built a **private cloud prototype using OpenStack and Proxmox** with virtualizat
 
 ### 🖥 CPU Monitoring & Alert System
 
-Real-time infrastructure monitoring system using:
+Real-time monitoring system built with:
 
-- Prometheus
-- Grafana
-- Automated Email Alerts
+- Prometheus  
+- Grafana  
+- Automated Email Alerts  
+
+This enables proactive infrastructure monitoring and performance optimization.
 
 ---
 
 ### 💰 Online Auction System
 
-Full-stack web application built with:
+Full-stack web application using:
 
-- MongoDB
-- Express
-- React
-- Node.js
+- MongoDB  
+- Express  
+- React  
+- Node.js  
 
-Features:
+Features include:
 
-- Real-time bidding
-- User authentication
-- Bid tracking
-- Automatic winner selection
+- Real-time bidding  
+- Secure authentication  
+- Bid tracking  
+- Automatic winner selection  
 
 ---
 
 ### 🤖 AI Voice Assistant – Aura
 
-AI assistant built using:
+AI assistant built with:
 
-- Python
-- Gemini API
-- Speech Recognition
-- Google Maps API
+- Python  
+- Gemini API  
+- Speech Recognition  
+- Google Maps API  
 
 Features:
 
-- Voice commands
-- Email automation
-- WhatsApp messaging
-- Navigation assistance
+- Voice commands  
+- Email automation  
+- WhatsApp messaging  
+- Navigation assistance  
 
 ---
 
@@ -123,7 +133,7 @@ Features:
 
 **Attention-Driven CNN-BiLSTM Architecture for Speech Emotion Recognition**
 
-Accepted at:
+Accepted for presentation at:
 
 🎓 **IEEE DASA 2025 International Conference**
 
