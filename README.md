@@ -1,121 +1,161 @@
 <h1 align="center">Hi 👋, I'm Akash Mondal</h1>
-<h3 align="center">DevOps Engineer | Cloud & Infrastructure Enthusiast</h3>
 
 <p align="center">
-Hyderabad, India 🇮🇳  
+<img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Engineer;Cloud+Infrastructure+Engineer;Kubernetes+Enthusiast;OpenStack+Developer;CI/CD+Automation+Engineer&center=true&width=600&height=50">
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 BE Information Technology student at CBIT  
-☁️ Cloud Computing Intern at ISRO  
-⚙️ DevOps Engineer Trainee at TensorGo Software Pvt Ltd  
+🎓 BE Information Technology Student at **CBIT Hyderabad**  
+☁️ Cloud Computing Intern at **ISRO**  
+⚙️ DevOps Engineer Trainee at **TensorGo Software Pvt Ltd**
 
-I enjoy building **cloud infrastructure, CI/CD pipelines, and scalable systems** using modern DevOps tools.
+I enjoy building **cloud infrastructure, DevOps pipelines and scalable systems**.
 
----
-
-## 🚀 Current Focus
-
-- Kubernetes & Container Orchestration
-- CI/CD Automation with Jenkins
-- Infrastructure Monitoring & Observability
-- Cloud Infrastructure Engineering
+- 🌱 Currently learning **Kubernetes, Cloud Infrastructure, DevOps**
+- 💻 Working with **Docker, Jenkins, Linux, OpenStack**
+- 🧠 Researching **AI + Speech Emotion Recognition**
+- 🚀 Interested in **Cloud Engineering and DevOps Architecture**
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Current Tech Stack
 
-### Languages
-Python • Java
-
-### DevOps & Cloud
-Docker • Kubernetes • Jenkins • OpenStack • Linux • Virtualization
-
-### Backend / Web
-Node.js • Express.js • React • REST APIs
-
-### Databases
-MySQL • MongoDB
-
-### AI / ML
-TensorFlow • Keras • Scikit-learn
-
-### Tools
-Git • GitHub • VS Code • IntelliJ • RHEL
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,linux,docker,kubernetes,jenkins,git,github,react,nodejs,mongodb,mysql,aws,terraform,vscode&perline=8" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akash52004&show_icons=true&theme=radical)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash52004&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=akash52004&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash52004&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🔥 GitHub Streak
 
-### 🖥 CPU Monitoring & Alert System
-Prometheus + Grafana based real-time monitoring system with automated alerts for infrastructure resource usage.
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akash52004&theme=tokyonight"/>
+</p>
+
+---
+
+# 🧠 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/Akash_4002/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://hackerrank.com/profile/akashportblair2">
+<img src="https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
 
 ### ☁️ On-Premises Cloud Infrastructure
-Built private cloud prototype using **OpenStack and Proxmox** with virtualization and VM orchestration.
+
+Built a **private cloud prototype using OpenStack and Proxmox** with virtualization and VM orchestration.
+
+---
+
+### 🖥 CPU Monitoring & Alert System
+
+Real-time infrastructure monitoring system using:
+
+- Prometheus
+- Grafana
+- Automated Email Alerts
+
+---
 
 ### 💰 Online Auction System
-Real-time auction platform built using **MongoDB, Express, React and Node.js**.
+
+Full-stack web application built with:
+
+- MongoDB
+- Express
+- React
+- Node.js
+
+Features:
+
+- Real-time bidding
+- User authentication
+- Bid tracking
+- Automatic winner selection
+
+---
 
 ### 🤖 AI Voice Assistant – Aura
-Python based AI assistant with:
 
-- Speech recognition
-- WhatsApp automation
+AI assistant built using:
+
+- Python
+- Gemini API
+- Speech Recognition
+- Google Maps API
+
+Features:
+
+- Voice commands
 - Email automation
-- Google Maps navigation
-- Gemini AI integration
+- WhatsApp messaging
+- Navigation assistance
 
 ---
 
-## 🧠 Research
+# 📄 Research Publication
 
-📄 **Attention-Driven CNN-BiLSTM Architecture for Speech Emotion Recognition**
+**Attention-Driven CNN-BiLSTM Architecture for Speech Emotion Recognition**
 
-Accepted for presentation at **IEEE DASA 2025 Conference**.
+Accepted at:
+
+🎓 **IEEE DASA 2025 International Conference**
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
 ✔ Contributed to **Private Cloud Implementation at ISRO**  
-✔ IEEE conference research paper accepted  
-✔ Active problem solving on LeetCode  
-✔ Multi-domain development experience (Cloud + DevOps + AI)
+✔ IEEE Research Paper Accepted  
+✔ Active Competitive Programmer  
+✔ Multi-domain developer (Cloud + DevOps + AI)
 
 ---
 
-## 💻 Coding Profiles
+# 📫 Connect With Me
 
-LeetCode  
-https://leetcode.com/u/Akash_4002/
+<p align="center">
 
-HackerRank  
-https://hackerrank.com/profile/akashportblair2
+<a href="https://linkedin.com/in/akash-mondal-078233214">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
----
+<a href="mailto:akashportblair2@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
 
-## 📫 Connect With Me
+<a href="https://github.com/akash52004">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
 
-LinkedIn  
-https://linkedin.com/in/akash-mondal-078233214
-
-GitHub  
-https://github.com/akash52004
-
-Email  
-akashportblair2@gmail.com
+</p>
 
 ---
 
-⭐ *Always learning new technologies in DevOps, Cloud and Distributed Systems*
+⭐ *Always exploring new technologies in DevOps, Cloud Infrastructure and Distributed Systems*
