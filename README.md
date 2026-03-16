@@ -82,24 +82,13 @@ fun_fact    : "I built a private cloud at ISRO & published an IEEE paper before 
 
 <br/><br/>
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   ✦  AKASH MONDAL — PORTFOLIO                                    ║
-║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━  ║
-║                                                                  ║
-║   🔗  https://portfolio-tau-flax-55.vercel.app                   ║
-║                                                                  ║
-║   What you'll find:                                              ║
-║                                                                  ║
-║   ☁️  Cloud Projects    →  ISRO Private Cloud, OpenStack Setup   ║
-║   📡  DevOps Work       →  Monitoring Stacks, CI/CD Pipelines    ║
-║   🤖  AI/ML Research    →  IEEE Paper, Aura Voice Assistant      ║
-║   💻  Web Apps          →  Online Auction System & more          ║
-║   📜  Certifications    →  ISRO · NPTEL · Infosys · Alteryx      ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+| | |
+|---|---|
+| ☁️ **Cloud Projects** | ISRO Private Cloud, OpenStack Setup |
+| 📡 **DevOps Work** | Monitoring Stacks, CI/CD Pipelines |
+| 🤖 **AI/ML Research** | IEEE Paper, Aura Voice Assistant |
+| 💻 **Web Apps** | Online Auction System & more |
+| 📜 **Certifications** | ISRO · NPTEL · Infosys · Alteryx |
 
 [![Visit Now](https://img.shields.io/badge/🌐_Open_Portfolio-Click_Here-7c3aed?style=for-the-badge&logoColor=white)](https://portfolio-tau-flax-55.vercel.app/)
 
@@ -218,23 +207,13 @@ fun_fact    : "I built a private cloud at ISRO & published an IEEE paper before 
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│   📑  Attention-Driven CNN-BiLSTM Architecture for                  │
-│       Speech Emotion Recognition                                    │
-│                                                                     │
-│   🏛️  IEEE DASA 2025 — International Conference on                  │
-│       Decision Aid Sciences and Applications                        │
-│                                                                     │
-│   🔬  Proposed a hybrid CNN–BiLSTM model with attention mechanism   │
-│       for speech emotion recognition, achieving performance         │
-│       improvements over existing baselines.                         │
-│                                                                     │
-│   ✅  IEEE Indexed after Presentation                               │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
+### 📑 Attention-Driven CNN-BiLSTM Architecture for Speech Emotion Recognition
+
+| | |
+|---|---|
+| 🏛️ **Conference** | IEEE DASA 2025 — International Conference on Decision Aid Sciences and Applications |
+| 🔬 **Contribution** | Proposed a hybrid CNN–BiLSTM model with attention mechanism for speech emotion recognition, achieving performance improvements over existing baselines |
+| ✅ **Status** | IEEE Indexed after Presentation |
 
 </div>
 
@@ -265,23 +244,6 @@ fun_fact    : "I built a private cloud at ISRO & published an IEEE paper before 
 </div>
 
 ---
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/akash52004/akash52004/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-> ⚠️ **Setup note:** To activate the snake animation, add this GitHub Action to your profile repo:
-> `.github/workflows/snake.yml` — [Click here for setup guide](https://github.com/Platane/snk)
-
----
-
-## 💬 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
 
 ---
 
